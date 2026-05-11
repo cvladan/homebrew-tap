@@ -1,6 +1,6 @@
 cask "browserpick" do
-  version "0.0.1"
-  sha256 "6a476b8bac99b8c5e3b6bd43b6efc468bd00a0b1c33fa8a9428201aaab607d70"
+  version "0.0.2"
+  sha256 "4dfdefecbbff365035d9fab0199ba61f0b3aba103f461ef7711cd9101eb68e5a"
 
   url "https://github.com/cvladan/browser-pick/releases/download/v#{version}/BrowserPick.zip"
   name "BrowserPick"
