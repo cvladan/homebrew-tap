@@ -16,3 +16,9 @@ brew install --cask <cask-name>
   ```sh
   brew install --cask cvladan/tap/browserpick
   ```
+
+- **[moneyGuru](https://github.com/cvladan/moneyguru)** — personal finance management application for Apple Silicon Macs.
+
+  ```sh
+  brew install --cask cvladan/tap/moneyguru
+  ```
